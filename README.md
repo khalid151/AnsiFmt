@@ -1,6 +1,11 @@
 # AnsiFmt
 ANSI escape sequences to format strings that are printed to terminal.
 
+## Install
+```
+pip install ansifmt
+```
+
 ## Usage
 ```python
 import AnsiFmt as fmt
