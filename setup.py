@@ -10,6 +10,7 @@ setuptools.setup(
     author_email="khalid.y96@outlook.com",
     description="ANSI escape sequences to format printed strings",
     long_description=long_description,
+    long_description_content_type="text/markdown",
     url="https://github.com/khalid151/AnsiFmt",
     packages=setuptools.find_packages(),
     classifiers=[
