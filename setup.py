@@ -5,7 +5,7 @@ with open("README.md", "r") as f:
 
 setuptools.setup(
     name="ansifmt",
-    version="0.0.1",
+    version="0.1.0",
     author="Khalid",
     author_email="khalid.y96@outlook.com",
     description="ANSI escape sequences to format printed strings",
