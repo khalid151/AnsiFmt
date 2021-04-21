@@ -19,6 +19,7 @@ print(fmt.fg(string, '#3cde2f'))
 # Formats can be nested since each function returns a formatted string
 print(fmt.bg(fmt.fg(fmt.bold(string), 4), 15))
 ```
+![preview](preview.png)
 
 ## Functions
 - `bg(str, color)`
